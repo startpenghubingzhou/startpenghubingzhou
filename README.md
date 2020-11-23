@@ -6,4 +6,4 @@ Just Borrow saying hello picture from Seraphine, no other meaning...
 
 
 
-![seraphine](https://imgchr.com/i/DJCO8s)
+[![DJCO8s.jpg](https://s3.ax1x.com/2020/11/23/DJCO8s.jpg)](https://imgchr.com/i/DJCO8s)
