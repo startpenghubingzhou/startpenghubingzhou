@@ -1,5 +1,4 @@
-[![startpenghubingzhou's github stats](https://github-readme-stats.vercel.app/api?username=startpenghubingzhou)](https://github.com/anuraghazra/github-readme-stats)
-
+[![startpenghubingzhou's github stats](https://github-stats-extended.vercel.app/api?username=startpenghubingzhou)](https://github.com/stats-organization/github-stats-extended)
 Just borrowed a picture of saying hello from Seraphine to say hello, no other meaning...
 
 就是从萨勒芬妮那借个打招呼图片来打招呼，没别的意思……
